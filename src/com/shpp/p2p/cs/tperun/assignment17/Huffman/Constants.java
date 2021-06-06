@@ -3,7 +3,8 @@ package com.shpp.p2p.cs.tperun.assignment17.Huffman;
 public interface Constants {
 
     /* File path component. */
-    String PATH_TO_FILE = "assets/";
+
+    String PATH_TO_FILE = "assets/"; //TODO
 
     /* The number of bits in one byte. */
     int BYTE = 8;
