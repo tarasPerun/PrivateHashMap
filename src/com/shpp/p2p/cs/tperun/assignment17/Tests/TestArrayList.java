@@ -19,8 +19,6 @@ public class TestArrayList {
     public static final String ANSI_YELLOW = "\u001B[33m";
     public static final String ANSI_RED = "\u001B[31m";
 
-
-
     public static void performTests() {
 
         addTest();
@@ -38,8 +36,6 @@ public class TestArrayList {
         crashTest();
         complexTest();
     }
-
-
 
     /**
      * Checks the add() method
